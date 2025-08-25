@@ -1,0 +1,61 @@
+{
+  "installation": {
+    "title": "Guía de Instalación",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Clonar Repositorio",
+        "description": "Clona el repositorio desde GitHub",
+        "command": "git clone [URL_DEL_REPO]"
+      },
+      {
+        "step": 2,
+        "title": "Instalar Dependencias",
+        "description": "Instala las dependencias del proyecto",
+        "command": "npm install"
+      },
+      {
+        "step": 3,
+        "title": "Ejecutar en Desarrollo",
+        "description": "Inicia el servidor de desarrollo",
+        "command": "npm run dev"
+      }
+    ]
+  },
+  "contentManagement": {
+    "title": "Gestión de Contenido",
+    "description": "El sistema de contenido permite actualizar información sin modificar código",
+    "files": [
+      {
+        "file": "site.json",
+        "description": "Configuración general del sitio",
+        "fields": ["name", "description", "contact", "social"]
+      },
+      {
+        "file": "projects.json",
+        "description": "Datos de proyectos documentales",
+        "fields": ["id", "title", "type", "year", "description", "team", "location"]
+      },
+      {
+        "file": "team.json",
+        "description": "Información del equipo y metodología",
+        "fields": ["members", "methodology", "principles"]
+      }
+    ]
+  },
+  "deployment": {
+    "title": "Guía de Deployment",
+    "platforms": [
+      {
+        "name": "Vercel",
+        "description": "Plataforma recomendada para Next.js",
+        "steps": ["Conectar repositorio", "Configurar variables", "Deploy automático"]
+      },
+      {
+        "name": "Netlify",
+        "description": "Alternativa popular para sitios estáticos",
+        "steps": ["Conectar repo", "Configurar build", "Deploy"]
+      }
+    ]
+  }
+}

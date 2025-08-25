@@ -1,0 +1,60 @@
+{
+  "blog": {
+    "title": "Reflexiones",
+    "description": "Artículos y reflexiones sobre documentalismo, metodologías colaborativas y narrativas visuales",
+    "posts": [
+      {
+        "id": "metodologia-colaborativa-documental",
+        "title": "Hacia una metodología colaborativa en el documentalismo",
+        "slug": "metodologia-colaborativa-documental",
+        "excerpt": "Reflexiones sobre cómo construir narrativas documentales desde la horizontalidad y el respeto por las comunidades protagonistas.",
+        "content": "El documentalismo tradicional ha estado marcado por una relación vertical entre quien documenta y quien es documentado. En nuestra experiencia como colectiva, hemos encontrado que las narrativas más potentes emergen cuando esta relación se transforma en un diálogo horizontal...",
+        "author": "Ana García",
+        "date": "2024-02-15",
+        "readTime": "8 min",
+        "tags": ["metodología", "colaboración", "ética", "documentalismo"],
+        "image": "/blog/metodologia-colaborativa.jpg",
+        "featured": true
+      },
+      {
+        "id": "archivo-como-memoria-colectiva",
+        "title": "El archivo como construcción de memoria colectiva",
+        "slug": "archivo-como-memoria-colectiva",
+        "excerpt": "La importancia de preservar y organizar los materiales documentales como herramienta de memoria histórica y resistencia.",
+        "content": "Los archivos no son espacios neutros. Cada decisión sobre qué preservar, cómo organizarlo y quién tiene acceso, es una decisión política que define qué memorias perduran y cuáles se desvanecen...",
+        "author": "María Torres",
+        "date": "2024-01-20",
+        "readTime": "6 min",
+        "tags": ["archivo", "memoria", "historia", "preservación"],
+        "image": "/blog/archivo-memoria.jpg",
+        "featured": false
+      },
+      {
+        "id": "fotografia-territorio-resistencia",
+        "title": "Fotografía, territorio y resistencia",
+        "slug": "fotografia-territorio-resistencia",
+        "excerpt": "Cómo la imagen fotográfica se convierte en herramienta de denuncia y visibilización de las luchas territoriales.",
+        "content": "La fotografía documental tiene el poder de hacer visible lo invisible, de dar testimonio de realidades que muchas veces permanecen en los márgenes del discurso mediático dominante...",
+        "author": "Carlos Mendoza",
+        "date": "2023-12-10",
+        "readTime": "10 min",
+        "tags": ["fotografía", "territorio", "resistencia", "visual"],
+        "image": "/blog/fotografia-territorio.jpg",
+        "featured": false
+      },
+      {
+        "id": "narrativas-audiovisuales-transformacion",
+        "title": "Narrativas audiovisuales para la transformación social",
+        "slug": "narrativas-audiovisuales-transformacion",
+        "excerpt": "El potencial transformador del video documental cuando se construye desde y con las comunidades.",
+        "content": "El video documental no es solo un medio de registro, sino una herramienta de transformación social cuando se construye desde metodologías participativas y colaborativas...",
+        "author": "Colectiva Documentalista",
+        "date": "2023-11-05",
+        "readTime": "7 min",
+        "tags": ["video", "transformación", "social", "participativo"],
+        "image": "/blog/narrativas-audiovisuales.jpg",
+        "featured": false
+      }
+    ]
+  }
+}

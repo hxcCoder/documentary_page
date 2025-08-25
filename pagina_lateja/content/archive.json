@@ -1,0 +1,78 @@
+{
+  "archive": {
+    "title": "Archivo Digital",
+    "description": "Biblioteca de materiales documentales organizados por tema, fecha y autor/a",
+    "items": [
+      {
+        "id": "territorio-campesino-2024",
+        "title": "Territorio Campesino - Serie Fotográfica",
+        "type": "fotografia",
+        "author": "Carlos Mendoza",
+        "date": "2024-03-15",
+        "year": 2024,
+        "description": "Registro fotográfico de la vida cotidiana en comunidades campesinas de la región andina.",
+        "tags": ["territorio", "campesino", "agricultura", "comunidad"],
+        "location": "Región Andina",
+        "image": "/archive/territorio-campesino.jpg",
+        "gallery": [
+          "/archive/territorio-campesino-1.jpg",
+          "/archive/territorio-campesino-2.jpg",
+          "/archive/territorio-campesino-3.jpg"
+        ],
+        "project": "voces-del-territorio"
+      },
+      {
+        "id": "entrevistas-lideres-2023",
+        "title": "Entrevistas con Líderes Comunitarios",
+        "type": "audio",
+        "author": "Ana García",
+        "date": "2023-11-20",
+        "year": 2023,
+        "description": "Testimonios de líderes comunitarios sobre procesos organizativos y resistencia territorial.",
+        "tags": ["testimonios", "liderazgo", "organización", "resistencia"],
+        "location": "Múltiples regiones",
+        "duration": "2h 45min",
+        "project": "voces-del-territorio"
+      },
+      {
+        "id": "archivo-historico-barrio",
+        "title": "Archivo Histórico del Barrio",
+        "type": "documento",
+        "author": "María Torres",
+        "date": "2023-08-10",
+        "year": 2023,
+        "description": "Recopilación de documentos históricos sobre la formación y desarrollo del barrio popular.",
+        "tags": ["historia", "barrio", "urbano", "memoria"],
+        "location": "Ciudad Capital",
+        "image": "/archive/archivo-historico.jpg",
+        "project": "memorias-urbanas"
+      },
+      {
+        "id": "mapeo-conflictos-2024",
+        "title": "Mapeo de Conflictos Territoriales",
+        "type": "mapa",
+        "author": "Colectiva Documentalista",
+        "date": "2024-01-30",
+        "year": 2024,
+        "description": "Cartografía colaborativa de conflictos por el territorio en diferentes regiones.",
+        "tags": ["mapeo", "conflictos", "territorio", "cartografía"],
+        "location": "Nacional",
+        "image": "/archive/mapeo-conflictos.jpg"
+      },
+      {
+        "id": "video-testimonios-2023",
+        "title": "Video Testimonios - Mujeres Rurales",
+        "type": "video",
+        "author": "Ana García, Carlos Mendoza",
+        "date": "2023-09-15",
+        "year": 2023,
+        "description": "Testimonios audiovisuales de mujeres rurales sobre sus luchas y resistencias.",
+        "tags": ["mujeres", "rural", "testimonios", "género"],
+        "location": "Región Andina",
+        "duration": "45min",
+        "image": "/archive/testimonios-mujeres.jpg",
+        "project": "voces-del-territorio"
+      }
+    ]
+  }
+}

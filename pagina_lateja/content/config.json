@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Colectiva Documentalista",
+    "description": "Narrativas visuales para el cambio social. Documentamos realidades, construimos memoria y tejemos redes de transformación.",
+    "logo": "/logo.png",
+    "favicon": "/favicon.ico",
+    "url": "https://colectivadocumentalista.org",
+    "email": "contacto@colectivadocumentalista.org",
+    "phone": "+57 300 123 4567",
+    "social": {
+      "instagram": "https://instagram.com/colectivadoc",
+      "twitter": "https://twitter.com/colectivadoc",
+      "telegram": "https://t.me/colectivadoc"
+    }
+  },
+  "theme": {
+    "primaryColor": "#2D5016",
+    "accentColor": "#7C9A3A",
+    "fonts": {
+      "heading": "Montserrat",
+      "body": "Open Sans"
+    }
+  },
+  "features": {
+    "darkMode": true,
+    "search": true,
+    "newsletter": false,
+    "comments": false
+  },
+  "seo": {
+    "keywords": ["documental", "fotografía", "narrativas", "memoria", "territorio", "comunidades"],
+    "author": "Colectiva Documentalista",
+    "language": "es"
+  }
+}
