@@ -9,7 +9,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[Demo en Vivo](https://documentalistpage-git-main-benjaminmillalonc-6594s-projects.vercel.app?_vercel_share=DrsLy1zWyqAfZRazy5ffeNJ9CLhhJAIr) • [Documentación](./CUSTOMIZATION.md) • [Reportar Bug](../../issues)
+[Demo en Vivo](https://documentalistpage-git-main-benjaminmillalonc-6594s-projects.vercel.app?_vercel_share=DrsLy1zWyqAfZRazy5ffeNJ9CLhhJAIr) • [Documentación](./CUSTOMIZATION.md) • [Reportar Bug](../../../issues)
 
 </div>
 
