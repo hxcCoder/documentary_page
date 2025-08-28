@@ -66,41 +66,6 @@ npm run dev
 # http://localhost:3000
 \`\`\`
 
-### Deploy en Vercel (1-Click)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/tu-usuario/colectiva-documentalista)
-
-## 📁 Arquitectura del Proyecto
-
-\`\`\`
-colectiva-documentalista/
-├── 📱 app/                    # App Router de Next.js
-│   ├── archivo/              # Biblioteca/Archivo
-│   ├── blog/                 # Blog y artículos
-│   ├── contacto/             # Formulario de contacto
-│   ├── mapa/                 # Mapa interactivo
-│   ├── nosotros/             # Página del equipo
-│   ├── proyectos/            # Proyectos documentales
-│   ├── timeline/             # Timeline cronológico
-│   └── layout.tsx            # Layout principal
-├── 🧩 components/            # Componentes reutilizables
-│   ├── archive/              # Componentes del archivo
-│   ├── blog/                 # Componentes del blog
-│   ├── home/                 # Homepage components
-│   ├── layout/               # Header, Footer, Nav
-│   ├── projects/             # Showcase de proyectos
-│   ├── seo/                  # SEO y metadatos
-│   └── ui/                   # Design system (shadcn/ui)
-├── 📄 content/               # Contenido configurable (JSON)
-│   ├── archive.json          # Datos del archivo
-│   ├── blog.json             # Posts del blog
-│   ├── projects.json         # Proyectos documentales
-│   ├── site.json             # Configuración global
-│   └── team.json             # Información del equipo
-├── 🔧 lib/                   # Utilidades y helpers
-└── 🖼️ public/                # Assets estáticos
-\`\`\`
-
 ## ⚙️ Configuración de Contenido
 
 ### 🎛️ Sistema de Contenido JSON
