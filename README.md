@@ -21,16 +21,16 @@ An **editorial and minimalist** web platform designed specifically for documenta
 
 ### ✨ Main Features
 
-🎨 **Minimalist Editorial Design** - Clean interface that prioritizes visual content
-📝 **Configurable Content System** - Complete management through JSON files
-🎬 **Project Showcase** - Organized documentaries, chronicles, and photography
-🔍 **Interactive Archive** - Searchable library with advanced filters
-📅 **Chronological Timeline** - Temporal navigation of projects
-🗺️ **Interactive Map** - Geographic visualization of work
-📰 **Integrated Blog** - Platform for articles and reflections
-🌙 **Dark/Light Mode** - Adaptive visual experience
-🚀 **SEO Optimized** - Metadata and structured data
-📱 **100% Responsive** - Adapted for all devices
+- 🎨 **Minimalist Editorial Design** - Clean interface that prioritizes visual content
+- 📝 **Configurable Content System** - Complete management through JSON files
+- 🎬 **Project Showcase** - Organized documentaries, chronicles, and photography
+- 🔍 **Interactive Archive** - Searchable library with advanced filters
+- 📅 **Chronological Timeline** - Temporal navigation of projects
+- 🗺️ **Interactive Map** - Geographic visualization of work
+- 📰 **Integrated Blog** - Platform for articles and reflections
+- 🌙 **Dark/Light Mode** - Adaptive visual experience
+- 🚀 **SEO Optimized** - Metadata and structured data
+- 📱 **100% Responsive** - Adapted for all devices
 
 ## 🛠️ Tech Stack
 
