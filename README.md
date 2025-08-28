@@ -63,7 +63,7 @@ npm run dev
 
 # 4. Open in browser
 # http://localhost:3000
-\`\`\`
+
 
 ## ⚙️ Content Configuration
 
@@ -71,7 +71,7 @@ npm run dev
 
 All content is managed using JSON files in `/content/`, allowing **code-free updates**:
 
-\`\`\`json
+
 // content/site.json - Global Configuration
 {
 "name": "Your Collective",
@@ -88,11 +88,10 @@ All content is managed using JSON files in `/content/`, allowing **code-free upd
 "youtube": "https://youtube.com/@tucolectiva"
 }
 }
-\`\`\`
+
 
 ### 📝 Add New Project
 
-\`\`\`json
 // content/projects.json
 {
 "id": "my-new-documentary",
@@ -116,13 +115,12 @@ All content is managed using JSON files in `/content/`, allowing **code-free upd
 "videoUrl": "https://vimeo.com/123456789",
 "awards": ["DocMontaña Festival 2024"]
 }
-\`\`\`
+
 
 ## 🎨 Design Customization
 
 ### 🎨 Color Palette
 
-\`\`\`css
 /* app/globals.css */
 :root {
 --primary: 142 69% 58%; /* Documentary Green */
@@ -137,8 +135,6 @@ All content is managed using JSON files in `/content/`, allowing **code-free upd
 --secondary: 222 84% 5%;
 --accent: 47 96% 89%;
 /* ... more colors for dark mode */
-}
-\`\`\`
 
 ### 📝 Fonts
 
@@ -207,8 +203,9 @@ npm run analyze # Bundle analysis
 
 ### Common Issues
 
+
 **Build Error in Production**
-\`\`\`bash
+
 # Clear cache and reinstall
 rm -rf .next node_modules
 npm install
