@@ -123,18 +123,19 @@ content/projects.json
 ### 🎨 Color Palette
 
 /* app/globals.css */
-:root {
---primary: 142 69% 58%; /* Documentary Green */
---secondary: 210 40% 98%; /* Editorial Gray */
---accent: 47 96% 89%; /* Soft Yellow */
---muted: 210 40% 96%; /* Very Light Gray */
---destructive: 0 84% 60%; /* Alert Red */
+
+- :root {
+- --primary: 142 69% 58%; /* Documentary Green */
+- --secondary: 210 40% 98%; /* Editorial Gray */
+- --accent: 47 96% 89%; /* Soft Yellow */
+- --muted: 210 40% 96%; /* Very Light Gray */
+- --destructive: 0 84% 60%; /* Alert Red */
 }
 
-[data-theme="dark"] {
---primary: 142 69% 58%;
---secondary: 222 84% 5%;
---accent: 47 96% 89%;
+- [data-theme="dark"] {
+- --primary: 142 69% 58%;
+- --secondary: 222 84% 5%;
+- --accent: 47 96% 89%;
 /* ... more colors for dark mode */
 
 ### 📝 Fonts
