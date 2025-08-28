@@ -17,7 +17,7 @@
 
 ## 🎯 Descripción
 
-Una plataforma web **editorial y minimalista** diseñada específicamente para colectivas documentalistas que buscan mostrar su trabajo de manera profesional y accesible. Perfecta para organizaciones que trabajan en **narrativas visuales**, **periodismo de investigación** y **documentación social**.
+Una plataforma web **editorial y minimalista** diseñada específicamente para colectivas documentalistas que buscan mostrar su trabajo profesional. Perfecta para organizaciones que trabajan en **narrativas visuales**, **periodismo de investigación** y **documentación social**.
 
 ### ✨ Características Principales
 
