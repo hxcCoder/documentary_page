@@ -50,8 +50,7 @@ Una plataforma web **editorial y minimalista** diseñada específicamente para c
 - npm, yarn o pnpm
 
 ### Instalación
-
-\`\`\`bash
+---
 # 1. Clonar el repositorio
 git clone https://github.com/tu-usuario/colectiva-documentalista.git
 cd colectiva-documentalista
