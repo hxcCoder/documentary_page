@@ -158,11 +158,10 @@ Compatible con cualquier plataforma que soporte Next.js:
 
 ### Variables de Entorno
 
-\`\`\`bash
 # .env.local (opcional)
 NEXT_PUBLIC_SITE_URL=https://tucolectiva.org
 NEXT_PUBLIC_ANALYTICS_ID=G-XXXXXXXXXX
-\`\`\`
+
 
 ## 📊 Performance y SEO
 
@@ -185,14 +184,14 @@ NEXT_PUBLIC_ANALYTICS_ID=G-XXXXXXXXXX
 
 ## 🛠️ Scripts Disponibles
 
-\`\`\`bash
+
 npm run dev          # Servidor de desarrollo
 npm run build        # Build de producción
 npm run start        # Servidor de producción
 npm run lint         # ESLint
 npm run type-check   # Verificación TypeScript
 npm run analyze      # Análisis del bundle
-\`\`\`
+
 
 ## 🗺️ Roadmap
 
@@ -224,7 +223,7 @@ npm run analyze      # Análisis del bundle
 rm -rf .next node_modules
 npm install
 npm run build
-\`\`\`
+
 
 **Imágenes no cargan**
 - Verificar que estén en `/public/images/`
@@ -241,9 +240,5 @@ Este proyecto está bajo la **Licencia MIT**. Ver [LICENSE](LICENSE) para más d
 ---
 
 <div align="center">
-
-**Desarrollado con ❤️ para colectivas documentalistas**
-
-[⭐ Dale una estrella si te gusta este proyecto](../../stargazers)
 
 </div>
