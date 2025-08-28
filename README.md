@@ -62,7 +62,8 @@ npm install
 npm run dev
 
 # 4. Open in browser
-# http://localhost:3000
+
+- http://localhost:3000
 
 
 ## ⚙️ Content Configuration
