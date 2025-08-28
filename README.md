@@ -93,28 +93,28 @@ content/site.json - Global Configuration
 
 ### 📝 Add New Project
 
-// content/projects.json
+content/projects.json
 {
-"id": "my-new-documentary",
-"title": "Voices of the Territory",
-"type": "documentary",
-"year": 2024,
-"description": "A journey through rural communities...",
-"longDescription": "Full description of the project...",
-"image": "/images/voces-territorio.jpg",
-"gallery": [
-"/images/gallery/img1.jpg",
-"/images/gallery/img2.jpg"
+- "id": "my-new-documentary",
+- "title": "Voices of the Territory",
+- "type": "documentary",
+- "year": 2024,
+- "description": "A journey through rural communities...",
+- "longDescription": "Full description of the project...",
+- "image": "/images/voces-territorio.jpg",
+- "gallery": [
+- "/images/gallery/img1.jpg",
+- "/images/gallery/img2.jpg"
 ],
-"team": ["María González", "Carlos Ruiz"],
-"collaborators": ["El Roble Community"],
-"location": "Valle del Cauca, Colombia",
-"coordinates": [3.4516, -76.5320],
-"tags": ["rural", "territory", "community"],
-"status": "completed",
-"featured": true,
-"videoUrl": "https://vimeo.com/123456789",
-"awards": ["DocMontaña Festival 2024"]
+- "team": ["María González", "Carlos Ruiz"],
+- "collaborators": ["El Roble Community"],
+- "location": "Valle del Cauca, Colombia",
+- "coordinates": [3.4516, -76.5320],
+- "tags": ["rural", "territory", "community"],
+- "status": "completed",
+- "featured": true,
+- "videoUrl": "https://vimeo.com/123456789",
+- "awards": ["DocMontaña Festival 2024"]
 }
 
 
