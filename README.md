@@ -183,12 +183,6 @@ Todo el contenido se gestiona mediante archivos JSON en `/content/`, permitiendo
 
 ## 🚀 Deployment y Producción
 
-### Vercel (Recomendado)
-
-1. Conecta tu repositorio a [Vercel](https://vercel.com)
-2. Configura variables de entorno si las necesitas
-3. Deploy automático en cada push a `main`
-
 ### Otros Proveedores
 
 Compatible con cualquier plataforma que soporte Next.js:
@@ -249,23 +243,6 @@ npm run analyze      # Análisis del bundle
 - [ ] **Analytics** dashboard
 - [ ] **Donaciones** (Stripe integration)
 
-### 🎯 Adaptaciones Sugeridas
-
-- **ONG/Fundaciones**: Agregar sección de donaciones
-- **Medios Independientes**: Sistema de suscripciones
-- **Fotógrafos**: Portfolio con venta de prints
-- **Investigadores**: Base de datos académica
-
-## 🤝 Contribución
-
-¡Las contribuciones son bienvenidas! Por favor:
-
-1. **Fork** el repositorio
-2. **Crea** una rama (`git checkout -b feature/nueva-funcionalidad`)
-3. **Commit** tus cambios (`git commit -m 'feat: agregar nueva funcionalidad'`)
-4. **Push** a la rama (`git push origin feature/nueva-funcionalidad`)
-5. **Abre** un Pull Request
-
 ### 📋 Guías de Contribución
 
 - Seguir [Conventional Commits](https://conventionalcommits.org/)
@@ -292,13 +269,6 @@ npm run build
 **Contenido no actualiza**
 - Verificar sintaxis JSON en archivos `/content/`
 - Reiniciar servidor de desarrollo
-
-## 📞 Soporte y Comunidad
-
-- 📧 **Email**: contacto@tucolectiva.org
-- 🐛 **Issues**: [GitHub Issues](../../issues)
-- 💬 **Discusiones**: [GitHub Discussions](../../discussions)
-- 📖 **Documentación**: [Wiki del proyecto](../../wiki)
 
 ## 📄 Licencia
 
