@@ -158,7 +158,7 @@ Compatible con cualquier plataforma que soporte Next.js:
 
 ### Variables de Entorno
 
-# .env.local (opcional)
+.env.local (opcional)
 NEXT_PUBLIC_SITE_URL=https://tucolectiva.org
 NEXT_PUBLIC_ANALYTICS_ID=G-XXXXXXXXXX
 
