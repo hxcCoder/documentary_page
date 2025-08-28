@@ -73,20 +73,20 @@ npm run dev
 All content is managed using JSON files in `/content/`, allowing **code-free updates**:
 
 
-// content/site.json - Global Configuration
+content/site.json - Global Configuration
 {
-"name": "Your Collective",
-"tagline": "Visual narratives for social change",
-"description": "We document realities to transform societies",
-"contact": {
-"email": "contacto@tucolectiva.org",
-"phone": "+1234567890",
-"address": "Your address"
+- "name": "Your Collective",
+- "tagline": "Visual narratives for social change",
+- "description": "We document realities to transform societies",
+- "contact": {
+- "email": "contacto@tucolectiva.org",
+- "phone": "+1234567890",
+- "address": "Your address"
 },
-"social": {
-"instagram": "https://instagram.com/tucolectiva",
-"twitter": "https://twitter.com/tucolectiva",
-"youtube": "https://youtube.com/@tucolectiva"
+- "social": {
+- "instagram": "https://instagram.com/tucolectiva",
+- "twitter": "https://twitter.com/tucolectiva",
+- "youtube": "https://youtube.com/@tucolectiva"
 }
 }
 
