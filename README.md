@@ -112,17 +112,6 @@ npm run analyze # Bundle analysis
 
 ## 🗺️ Roadmap
 
-### 🚧 Upcoming Features
-
-- [ ] **Headless CMS** (Strapi/Sanity integration)
-- [ ] **Multilingual** (i18n with next-intl)
-- [ ] **Newsletter** (Mailchimp integration)
-- [ ] **Comments** on blog posts
-- [ ] **Advanced search** (Algolia)
-- [ ] **PWA** (Progressive Web App)
-- [ ] **Analytics** dashboard
-- [ ] **Donations** (Stripe integration)
-- [ ] 
 ## 🐛 Troubleshooting
 
 ### Common Issues
