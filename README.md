@@ -2,7 +2,7 @@
 
 # 📸 Documental Graphic Collective
 
-### Modern web platform for documentary collectives
+### Web platform for documentary collectives
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -16,8 +16,7 @@
 ---
 
 ## 🎯 Description
-
-An **editorial and minimalist** web platform designed specifically for documentary collectives looking to showcase their professional work. Perfect for organizations working in **visual narratives**, **investigative journalism**, and **social documentation**.
+A website designed for a graphic documentary company.
 
 ### ✨ Main Features
 
