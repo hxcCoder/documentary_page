@@ -41,30 +41,10 @@ A website designed for a graphic documentary company.
 | **shadcn/ui** | Latest | Accessible Components |
 | **Montserrat + Open Sans** | - | Editorial Fonts |
 
-## 🚀 Quick Start
-
 ### Prerequisites
 
 - Node.js 18+
 - npm, yarn, or pnpm
-
-### Installation
----
-# 1. Clone the repository
-git clone https://github.com/your-user/colectiva-documentalista.git
-cd colectiva-documentalista
-
-# 2. Install dependencies
-npm install
-
-# 3. Run in development
-npm run dev
-
-# 4. Open in browser
-
-- http://localhost:3000
-
-## 🚀 Deployment and Production
 
 ### Other Providers
 
@@ -92,29 +72,6 @@ NEXT_PUBLIC_ANALYTICS_ID=G-XXXXXXXXXX
 - **Automatic sitemap**
 - **Robots.txt** configured
 - **Open Graph** and Twitter Cards
-  
-### 🔍 SEO Score
-
-- **Lighthouse Performance**: 95+
-- **Accessibility**: 100
-- **Best Practices**: 100
-- **SEO**: 100
-
-## 🛠️ Available Scripts
-
-npm run dev # Development server
-npm run build # Production build
-npm run start # Production server
-npm run lint # ESLint
-npm run type-check # TypeScript verification
-npm run analyze # Bundle analysis
-
-## 🗺️ Roadmap
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
 
 **Build Error in Production**
 
