@@ -48,18 +48,6 @@ Compatible with any platform that supports Next.js:
 NEXT_PUBLIC_SITE_URL=https://tucolectiva.org
 NEXT_PUBLIC_ANALYTICS_ID=G-XXXXXXXXXX
 
-## 📊 Performance and SEO
-
-### ⚡ Included Optimizations
-
-- **Core Web Vitals** optimized
-- **Lazy loading** of images
-- **Dynamic metadata** per page
-- **Structured data** (JSON-LD)
-- **Automatic sitemap**
-- **Robots.txt** configured
-- **Open Graph** and Twitter Cards
-
 **Build Error in Production**
 
 # Clear cache and reinstall
